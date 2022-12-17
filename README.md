@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+#freecodecamp-testimonials
+
+-Esta es una pagina que replica una seccion de freecodecamp, donde los alumnos comentan su experiencia de aprendizaje en freecodecamp.
+
+///
+
+-This is a page that replicates a section of freecodecamp, where students comment on their learning experience in freecodecamp.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
